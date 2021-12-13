@@ -1,3 +1,4 @@
+#React Atomic Design Pattern
 # Getting Started 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the project.
 2. Copy `.env.example` to `.env`
-3. Obtain an API key from [last.fm](https://www.last.fm/api/). Use your key as your `REACT_APPAPI_KEY` value in `.env`.
+3. Obtain an API key from [last.fm](https://www.last.fm/api/). Use your key as your `REACT_APP_API_KEY` value in `.env`.
 4. Install dependencies with `yarn`
 5. Start server with `yarn start`
     > App will be served at http://localhost:3000/
