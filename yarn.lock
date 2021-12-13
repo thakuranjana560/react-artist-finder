@@ -9303,7 +9303,7 @@ postcss-selector-matches@^4.0.0:
 
 postcss-selector-not@^4.0.0:
   version "4.0.1"
-  resolved "https://registry.nlark.com/postcss-selector-not/download/postcss-selector-not-4.0.1.tgz#263016eef1cf219e0ade9a913780fc1f48204cbf"
+  resolved "https://registry.npmmirror.com/postcss-selector-not/download/postcss-selector-not-4.0.1.tgz#263016eef1cf219e0ade9a913780fc1f48204cbf"
   integrity sha1-JjAW7vHPIZ4K3pqRN4D8H0ggTL8=
   dependencies:
     balanced-match "^1.0.0"
